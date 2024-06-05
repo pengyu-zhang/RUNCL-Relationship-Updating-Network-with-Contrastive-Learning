@@ -17,8 +17,8 @@ import argparse
 from dgl.nn import GraphConv
 from grace import Grace
 
-# wandb.login(key="513e8c670eb9cc30b57ffc30ffbe1f5d96ca84e6")
-# wandb.init(project="gen_asus")
+# wandb.login(key="")
+# wandb.init(project="")
 
 """Backbone GNN Model
 Parameters
